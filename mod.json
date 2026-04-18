@@ -2,7 +2,7 @@
 	"name": "tally-mod",
 	"displayName": "TallyMod",
 	"author": "[royal]Kalpyy[]",
-	"description": "Quicky tally up the ouputs of multiple drills. Open the menu\nwith the on screen button to choose which drills to tally up.[]",
+	"description": "Quicky tally up the ouputs of multiple drills. Open the menu with the on screen button to choose which drills to tally up.[]",
   "version": "1.0",
 	"hidden": false,
 	"minGameVersion": 157
