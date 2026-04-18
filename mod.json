@@ -1,0 +1,10 @@
+{
+	"name": "tally-mod",
+	"displayName": "TallyMod",
+	"author": "[royal]Kalpyy[]",
+  "description": "Speeds up or slows down Mindustry.\nDrag the slider to change the speed.\n\n[scarlet]Disclaimer: not intended for multiplayer use![]",
+	"description": "Quicky tally up the ouputs of multiple drills. Open the menu\nwith the on screen button to choose which drills to tally up.[]",
+  "version": "1.0",
+	"hidden": false,
+	"minGameVersion": 157
+}
